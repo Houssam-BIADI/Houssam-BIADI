@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Houssam BIADI, I'm a junior Data Analyst and a Hydraulic engineer.
-- 🌱 I’m currently learning Python for Data Science, Power BI, SQL and Tableau.
+- 👋 Hi, I’m Houssam BIADI, I'm a junior Data Scientist and an environnemental engineer.
+- 🌱 I’m currently learning Python for Data Science, Scala, SPARK and Tableau.
 - 💞️ I’m looking to secure my first job in Data science.
 - 📫 How to reach me:
        LinkedIn: https://www.linkedin.com/in/houssam-biadi/
