@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning Python for Data Science, Scala, SPARK and Tableau.
 - 💞️ I’m looking to secure my first job in Data science.
 - 📫 How to reach me:
+
        LinkedIn: https://www.linkedin.com/in/houssam-biadi/
        
        Twitter: https://twitter.com/Houssam_Bia
