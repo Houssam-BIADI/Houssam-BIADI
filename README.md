@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Houssam BIADI, I'm a junior Data Scientist and a developer.
 - I have a master of science in applied mathematics and Data Science.
 - 🌱 I’m currently developing my skills in machine learning and python programming .
-- 💞️ I’m looking to secure my first job in Data science.
 - 📫 How to reach me:
 
        LinkedIn: https://www.linkedin.com/in/houssam-biadi/
