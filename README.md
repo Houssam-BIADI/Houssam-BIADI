@@ -7,8 +7,6 @@
        
        Twitter: https://twitter.com/Houssam_Bia
        
-       Email: houssambiadi12@gmail.com
-       
        Portfolio: https://houssam-biadi.github.io/Potfolio/
 
 <!---
